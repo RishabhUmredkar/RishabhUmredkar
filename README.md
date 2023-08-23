@@ -24,4 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhumredkar&show_icons=true&locale=en&layout=compact" alt="rishabhumredkar" /></p>
 <!--remove the stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhumredkar&show_icons=true&locale=en" alt="rishabhumredkar" /></p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhumredkar&" alt="rishabhumredkar" /></p>
