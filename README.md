@@ -1,6 +1,6 @@
 ![logo](https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(3).png)
 
-<h1 align="center">Hi 👋, I'm Rishabh UMREDKAR😎</h1>
+<h1 align="center">Hi 👋, I'm Rishabh UMREDKAR</h1>
 <h3 align="center">Intern as Full Stack Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhumredkar&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhumredkar" /> </p>
