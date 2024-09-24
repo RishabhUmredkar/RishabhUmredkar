@@ -6,6 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rishabhumredkar&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhumredkar" /> 
 </p>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 
 - 🌱 I’m currently learning **Java**
