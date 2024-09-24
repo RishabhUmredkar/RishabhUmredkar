@@ -52,4 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhumredkar&theme=radical&hide_border=true" alt="Rishabh's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhumredkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+## Contribution Graph : 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
