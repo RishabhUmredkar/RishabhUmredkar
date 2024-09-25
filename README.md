@@ -1,4 +1,4 @@
-![logo](Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.gif)
+![logo](Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rishabh Umredkar</h1>
 <h3 align="center">Intern as Full Stack Java developer</h3>
