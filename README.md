@@ -1,4 +1,5 @@
-![logo](Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.png)
+![logo](![logo](https://github.com/ankitapajai/ankitapajai/blob/main/Green%20Simple%20Personal%20LinkedIn%20Banner.png)
+)
 
 <h1 align="center">Hi 👋, I'm Rishabh Umredkar</h1>
 <h3 align="center">Intern as Full Stack Java developer</h3>
