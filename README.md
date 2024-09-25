@@ -1,5 +1,5 @@
-![logo](![logo](https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.gif)
-)
+![logo](https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.gif)
+
 
 <h1 align="center">Hi 👋, I'm Rishabh Umredkar</h1>
 <h3 align="center">Intern as Full Stack Java developer</h3>
