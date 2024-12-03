@@ -56,3 +56,6 @@
 ## Contribution Graph : 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhUmredkar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+- 👨‍💻 All of my projects are available at [https://github.com/RishabhUmredkar](https://github.com/RishabhUmredkar)
+
+- 📫 How to reach me **rishabhumredkar0@gmail.com**
