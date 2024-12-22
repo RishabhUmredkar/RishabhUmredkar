@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhUmredkar](https://github.com/RishabhUmredkar)
- 
  - 📫 How to reach me: **rishabhumredkar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,16 +23,16 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/rishabhumredkar" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.naukri.com/mnjuser/profile?id=&title=RishabhUmredkar" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Naukri_Logo.png" alt="Naukri.com" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Naukri_logo_2020.svg" alt="Naukri.com" height="30" width="30" />
   </a>
   <a href="https://internshala.com/internships/online-application" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Internshala_logo.png" alt="Internshala" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Internshala_logo.svg" alt="Internshala" height="30" width="30" />
   </a>
   <a href="https://www.indeed.com/cmp/Company-Name" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Indeed_Logo_2019.png" alt="Indeed" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Indeed_logo.svg" alt="Indeed" height="30" width="30" />
   </a>
   <a href="mailto:rishabhumredkar0@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="30" />
