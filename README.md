@@ -53,25 +53,17 @@
 
 ---
 
+### 🌇 GitHub Skyline (STL Model)
 
-### 🌇 GitHub Skyline
-
-<div align="center">
-  <details open>
-    <summary>3D Contribution Calendar</summary>
-    <img src=" RishabhUmredkar-2024-github-skyline.stl" alt="3D GitHub Skyline" />
-  </details>
-</div>
+You can download my 3D GitHub skyline model here: 
+[Download STL File](https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/RishabhUmredkar-2024-github-skyline.stl)
 
 ---
 
-### 🌇 GitHub Skyline
+### 🌇 GitHub Skyline (GIF Preview)
 
 <div align="center">
-  <details open>
-    <summary>3D Contribution Calendar</summary>
-    <img src="https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/assets/github-skyline-2024.gif" alt="3D GitHub Skyline" />
-  </details>
+  <img src="https://github.com/RishabhUmredkar/RishabhUmredkar/raw/main/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.gif" alt="3D GitHub Skyline" />
 </div>
 
 ### 📈 GitHub Stats
