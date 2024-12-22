@@ -53,6 +53,7 @@
 
 ---
 
+
 ### 🌇 GitHub Skyline
 
 <div align="center">
@@ -63,6 +64,15 @@
 </div>
 
 ---
+
+### 🌇 GitHub Skyline
+
+<div align="center">
+  <details open>
+    <summary>3D Contribution Calendar</summary>
+    <img src="https://github.com/RishabhUmredkar/RishabhUmredkar/blob/main/assets/github-skyline-2024.gif" alt="3D GitHub Skyline" />
+  </details>
+</div>
 
 ### 📈 GitHub Stats
 
