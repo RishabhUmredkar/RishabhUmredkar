@@ -12,14 +12,33 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhUmredkar](https://github.com/RishabhUmredkar)
-
-- 📫 How to reach me **rishabhumredkar0@gmail.com**
+- 📫 How to reach me: **rishabhumredkar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/rishabh.umredkar.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishabh umredkar" height="30" width="40" /></a>
-  <a href="https://instagram.com/rishabh_umredkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh umredkar" height="30" width="40" /></a>
+  <a href="https://fb.com/rishabh.umredkar.3/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rishabh_umredkar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishabhumredkar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&title=RishabhUmredkar" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Naukri_Logo.png" alt="Naukri.com" height="30" width="40" />
+  </a>
+  <a href="https://internshala.com/internships/online-application" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Internshala_logo.png" alt="Internshala" height="30" width="40" />
+  </a>
+  <a href="https://www.indeed.com/cmp/Company-Name" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Indeed_Logo_2019.png" alt="Indeed" height="30" width="40" />
+  </a>
+  <a href="mailto:rishabhumredkar0@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
