@@ -60,11 +60,6 @@ You can download my 3D GitHub skyline model here:
 
 ---
 
-### 🌇 GitHub Skyline (GIF Preview)
-
-<div align="center">
-  <img src="https://github.com/RishabhUmredkar/RishabhUmredkar/raw/main/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.gif" alt="3D GitHub Skyline" />
-</div>
 
 ### 📈 GitHub Stats
 
