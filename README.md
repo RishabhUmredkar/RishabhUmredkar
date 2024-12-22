@@ -12,7 +12,10 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhUmredkar](https://github.com/RishabhUmredkar)
- - 📫 How to reach me: **rishabhumredkar0@gmail.com**
+
+
+
+- 📫 How to reach me: **rishabhumredkar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +41,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
