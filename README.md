@@ -59,7 +59,7 @@
 <div align="center">
   <details open>
     <summary>3D Contribution Calendar</summary>
-    <img src="https://skyline.github.com/RishabhUmredkar/2024.svg" alt="3D GitHub Skyline" />
+    <img src=" RishabhUmredkar-2024-github-skyline.stl" alt="3D GitHub Skyline" />
   </details>
 </div>
 
